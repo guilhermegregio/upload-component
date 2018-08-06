@@ -1,2 +1,3 @@
 # upload-component
-POC - Component Upload - Material UI - Dropzone
+WIP - Component Upload - Material UI - Dropzone
+
